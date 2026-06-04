@@ -3,8 +3,9 @@
 **BIM-модель и фотореалистичная визуализация частного жилого дома**
 
 [![Archicad](https://img.shields.io/badge/Archicad-28-blue.svg)](https://graphisoft.com)
-[![Blender](https://img.shields.io/badge/Blender-4.2-orange.svg)](https://www.blender.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Uploading chad_f834d79aa432482f8e3b7bb08abec4c6.png…]()
+
+
 
 ---
 
