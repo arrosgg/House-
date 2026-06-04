@@ -3,7 +3,7 @@
 **BIM-модель и фотореалистичная визуализация частного жилого дома**
 
 [![Archicad](https://img.shields.io/badge/Archicad-28-blue.svg)](https://graphisoft.com)
-![Uploading chad_f834d79aa432482f8e3b7bb08abec4c6.png…]()
+
 
 
 
@@ -32,13 +32,14 @@
 - **PBR-материалов** собственной настройки (кирпич, штукатурка, дерево, стекло)
 - **Библиотек BlenderKit** для растительности и ландшафта
 
+  ![Uploading chad_f834d79aa432482f8e3b7bb08abec4c6.png…]()
+
+
 | Общий вид | Южный фасад |
 <img width="1382" height="736" alt="Снимок экрана 2026-06-01 185102" src="https://github.com/user-attachments/assets/3dc13883-1a76-450d-b39e-6761eab5961e" />
 
 
-| Терраса | 
-<img width="880" height="721" alt="Снимок экрана 2026-06-02 150406" src="https://github.com/user-attachments/assets/41025168-6567-4d1e-9b37-35fc15fc9b09" />
-<img width="1349" height="798" alt="Снимок экрана 2026-06-02 150230" src="https://github.com/user-attachments/assets/9a9f5283-15c9-41a5-9fd6-8f424392abe6" />
+
 
 
 
